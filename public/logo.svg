@@ -1,0 +1,8 @@
+<svg width="520" height="360" viewBox="0 0 520 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="520" height="360" rx="24" fill="#003D2E"/>
+<text x="260" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="118" fill="#D9A957">DB</text>
+<text x="260" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="42" letter-spacing="8" fill="#F8F1E7">DOLCE BELLA</text>
+<line x1="150" y1="255" x2="210" y2="255" stroke="#D9A957" stroke-width="2"/>
+<line x1="310" y1="255" x2="370" y2="255" stroke="#D9A957" stroke-width="2"/>
+<text x="260" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="10" fill="#D9A957">ATELIER</text>
+</svg>
